@@ -4,7 +4,7 @@
 { "name": "<@641051863067656194>", "comment": "KHAN (Тобi Пэзда)", "allyCode": "361326893", "userIcon": ":flag_ru:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "<@384240077972439041>", "comment": "Tomik", "allyCode": "675556659", "userIcon": ":flag_cz:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "<@332489054920638465>", "comment": "The Evil Doctor", "allyCode": "697799576", "userIcon": ":flag_ru:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
-{ "name": "<@465237584969203713>", "comment": "Darkerzide", "allyCode": "655689642", "userIcon": ":flag_white:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
+{ "name": "<@465237584969203713>", "comment": "Darkerzide", "allyCode": "655689642", "userIcon": ":flag_gb:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "<@673155652583030784>", "comment": "trankn (トランキーノ)", "allyCode": "743652669", "userIcon": ":flag_jp:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "<@425670770279317514>", "comment": "TarMhur", "allyCode": "674767353", "userIcon": ":flag_it:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "<@405336062085431296>", "comment": "GulSki", "allyCode": "941576198", "userIcon": ":flag_de:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
@@ -12,4 +12,6 @@
 { "name": "<@432913655600775180>", "comment": "Rumborak", "allyCode": "178437878", "userIcon": ":flag_de:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "<@402612632273813505>", "comment": "JinX", "allyCode": "893771821", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "<@352017772240175121>", "comment": "krumpliszirom", "allyCode": "384275151", "userIcon": ":flag_hu:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+{ "name": "", "comment": "oxo", "allyCode": "515581987", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+{ "name": "", "comment": "Sort", "allyCode": "719559947", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
 ]
