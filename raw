@@ -21,7 +21,8 @@
 { "name": "<@495864220504555520>", "comment": "Morizo", "allyCode": "916579788", "userIcon": ":flag_jp:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "<@397169988341071884>", "comment": "chucksax", "allyCode": "637875647", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "<@398855419805564940>", "comment": "BobaFOAD", "allyCode": "126838667", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
-{ "name": "<@515082881501233162>", "comment": "Lacika", "allyCode": "428452756", "userIcon": ":flag_hu:", "tagIdOnDrop": "", "tagIdOnClimb": "" }{ "name": "", "comment": "Nilo", "allyCode": "215456421", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
+{ "name": "<@515082881501233162>", "comment": "Lacika", "allyCode": "428452756", "userIcon": ":flag_hu:", "tagIdOnDrop": "", "tagIdOnClimb": "" };
+{ "name": "", "comment": "Nilo", "allyCode": "215456421", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "", "comment": "Pavel", "allyCode": "551588745", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "", "comment": "Rainy", "allyCode": "276966195", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
 { "name": "", "comment": "Boser", "allyCode": "776362418", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" },
