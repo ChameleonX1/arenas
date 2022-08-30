@@ -36,9 +36,9 @@
 ,{ "name": "", "comment": "NJeezy", "allyCode": "497496293", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
 ,{ "name": "", "comment": "TheHornetRat", "allyCode": "947814311", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
 ,{ "name": "", "comment": "Brioli", "allyCode": "272763552", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
-,{ "name": "", "comment": "Pavel", "allyCode": "551588745", "userIcon": ":flag_fr:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Pavel", "allyCode": "551588745", "userIcon": "skull_crossbones", "tagIdOnDrop": "", "tagIdOnClimb": "" }
 ,{ "name": "", "comment": "Rainy", "allyCode": "276966195", "userIcon": ":flag_ru:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
-,{ "name": "", "comment": "Boser", "allyCode": "776362418", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Boser", "allyCode": "776362418", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
 ,{ "name": "", "comment": "Clerical Error", "allyCode": "149567178", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
 ,{ "name": "", "comment": "Apollo", "allyCode": "565366613", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
 ,{ "name": "", "comment": "Den", "allyCode": "628422165", "userIcon": ":flag_ua:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
@@ -109,5 +109,9 @@
 ,{ "name": "", "comment": "TROSwasTrash", "allyCode": "661926245", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
 ,{ "name": "", "comment": "Tiroxx", "allyCode": "736951577", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
 ,{ "name": "", "comment": "Zimoka", "allyCode": "757524565", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "bakedgenius", "allyCode": "415271688", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "supertight", "allyCode": "538471282", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "flogchops", "allyCode": "222953518", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "meeraval", "allyCode": "229746932", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
 ,{ "name": "", "comment": "Nonex", "allyCode": "966345258", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
 ]
