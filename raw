@@ -3,12 +3,14 @@
     "comment": "ChameleonX",
     "allyCode": "639981795",
     "userIcon": "`639981795`|",
+    "discordId": "102215534375882752",
     "enemy": false
   },
   {
     "comment": "Voxy",
     "allyCode": "581857899",
     "userIcon": "`581857899`|",
+    "discordId": "426136695671488512",
     "enemy": false
   },
   {
@@ -18,290 +20,118 @@
     "enemy": true
   },
   {
-    "comment": "Dash Rendar",
-    "allyCode": "619318297",
-    "userIcon": "`619318297`|",
+    "comment": "Force Ghost",
+    "allyCode": "578536777",
+    "userIcon": "`578536777`|",
     "enemy": true
   },
   {
-    "comment": "Kev",
-    "allyCode": "463221121",
-    "userIcon": "`463221121`|",
-    "enemy": true
-  },
-  {
-    "comment": "Uthred",
-    "allyCode": "312192582",
-    "userIcon": "`312192582`|",
+    "comment": "Clerical Error",
+    "allyCode": "149567178",
+    "userIcon": "`149567178`|",
     "enemy": false
   },
   {
-    "comment": "DarkRath",
-    "allyCode": "266114767",
-    "userIcon": "`266114767`|",
-    "enemy": true
-  },
-  {
-    "comment": "Beltachon la mandale",
-    "allyCode": "676325784",
-    "userIcon": "`676325784`|",
+    "comment": "Gersch",
+    "allyCode": "539239795",
+    "userIcon": "`539239795`|",
     "enemy": false
   },
   {
-    "comment": "RM Destiny",
-    "allyCode": "591554844",
-    "userIcon": "`591554844`|",
-    "enemy": true
-  },
-  {
-    "comment": "Ewokalypsenow",
-    "allyCode": "162643794",
-    "userIcon": "`162643794`|",
-    "enemy": true
-  },
-  {
-    "comment": "Zbujo",
-    "allyCode": "616654416",
-    "userIcon": "`616654416`|",
-    "enemy": true
-  },
-  {
-    "comment": "desik",
-    "allyCode": "967811297",
-    "userIcon": "`967811297`|",
-    "enemy": true
-  },
-  {
-    "comment": "Zylo",
-    "allyCode": "681383654",
-    "userIcon": "`681383654`|",
-    "enemy": true
-  },
-  {
-    "comment": "Zereaux Juan",
-    "allyCode": "831193177",
-    "userIcon": "`831193177`|",
-    "enemy": true
-  },
-  {
-    "comment": "anaeth erith",
-    "allyCode": "276469746",
-    "userIcon": "`276469746`|",
-    "enemy": true
-  },
-  {
-    "comment": "paramon",
-    "allyCode": "466775349",
-    "userIcon": "`466775349`|",
-    "enemy": true
-  },
-  {
-    "comment": "SMFJ",
-    "allyCode": "888721595",
-    "userIcon": "`888721595`|",
+    "comment": "oXo",
+    "allyCode": "515581987",
+    "userIcon": "`515581987`|",
     "enemy": false
   },
   {
-    "comment": "Eurizen",
-    "allyCode": "171694543",
-    "userIcon": "`171694543`|",
+    "comment": "Pavel",
+    "allyCode": "551588745",
+    "userIcon": "`551588745`|",
     "enemy": true
   },
   {
-    "comment": "BariRul",
-    "allyCode": "178462577",
-    "userIcon": "`178462577`|",
-    "enemy": true
-  },
-  {
-    "comment": "kronusz",
-    "allyCode": "187577636",
-    "userIcon": "`187577636`|",
+    "comment": "HK51",
+    "allyCode": "182835777",
+    "userIcon": "`182835777`|",
     "enemy": false
   },
   {
-    "comment": "թรყƈհօ ժձժ",
-    "allyCode": "193181284",
-    "userIcon": "`193181284`|",
+    "comment": "JB Unleashed",
+    "allyCode": "776362418",
+    "userIcon": "`776362418`|",
+    "enemy": true
+  },
+  {
+    "comment": "MarcelDavis",
+    "allyCode": "566975995",
+    "userIcon": "`566975995`|",
+    "enemy": false
+  },
+  {
+    "comment": "pointless",
+    "allyCode": "186213747",
+    "userIcon": "`186213747`|",
+    "enemy": true
+  },
+  {
+    "comment": "Base797",
+    "allyCode": "759253976",
+    "userIcon": "`759253976`|",
+    "enemy": true
+  },
+  {
+    "comment": "SomeGuy01",
+    "allyCode": "635412846",
+    "userIcon": "`635412846`|",
+    "enemy": true
+  },
+  {
+    "comment": "Bundy",
+    "allyCode": "832264253",
+    "userIcon": "`832264253`|",
+    "enemy": true
+  },
+  {
+    "comment": "krumpliszirom",
+    "allyCode": "384275151",
+    "userIcon": "`384275151`|",
+    "enemy": true
+  },
+  {
+    "comment": "Tømik",
+    "allyCode": "675556659",
+    "userIcon": "`675556659`|",
+    "enemy": true
+  },
+  {
+    "comment": "Golovinw",
+    "allyCode": "536156973",
+    "userIcon": "`536156973`|",
+    "enemy": true
+  },
+  {
+    "comment": "Enotiqell",
+    "allyCode": "276966195",
+    "userIcon": "`276966195`|",
+    "enemy": true
+  },
+  {
+    "comment": "Cebru",
+    "allyCode": "147439455",
+    "userIcon": "`147439455`|",
+    "enemy": true
+  },
+  {
+    "comment": "Etu Crutarus",
+    "allyCode": "955344594",
+    "userIcon": "`955344594`|",
     "discordId": "395558081121222666",
     "enemy": false,
-    "tagOnDrop": true
-  },
+    },
   {
-    "comment": "RM Lukе Skywalkеr",
-    "allyCode": "233989684",
-    "userIcon": "`233989684`|",
+    "comment": "KingRay",
+    "allyCode": "564996791",
+    "userIcon": "`564996791`|",
     "enemy": false
   },
-  {
-    "comment": "Veeto",
-    "allyCode": "294332427",
-    "userIcon": "`294332427`|",
-    "enemy": true
-  },
-  {
-    "comment": "Riverdales",
-    "allyCode": "316683299",
-    "userIcon": "`316683299`|",
-    "enemy": true
-  },
-  {
-    "comment": "Liener",
-    "allyCode": "336771469",
-    "userIcon": "`336771469`|",
-    "discordId": "243490609824792576",
-    "enemy": false,
-    "tagOnDrop": true
-  },
-  {
-    "comment": "dark asiduos",
-    "allyCode": "338714241",
-    "userIcon": "`338714241`|",
-    "enemy": false
-  },
-  {
-    "comment": "Pinturicchio",
-    "allyCode": "369987481",
-    "userIcon": "`369987481`|",
-    "name": "@740910321891541103",
-    "enemy": false,
-    "tagOnDrop": true,
-    "tagOnDropOffset": 9
-  },
-  {
-    "comment": "Oderon",
-    "allyCode": "376793438",
-    "userIcon": "`376793438`|",
-    "enemy": false
-  },
-  {
-    "comment": "Turbo0013",
-    "allyCode": "427388779",
-    "userIcon": "`427388779`|",
-    "enemy": true
-  },
-  {
-    "comment": "DarthVaper",
-    "allyCode": "439185155",
-    "userIcon": "`439185155`|",
-    "enemy": false
-  },
-  {
-    "comment": "MINI GazozlarBenden",
-    "allyCode": "493249972",
-    "userIcon": "`493249972`|",
-    "enemy": false
-  },
-  {
-    "comment": "ZMaster",
-    "allyCode": "496639575",
-    "userIcon": "`496639575`|",
-    "enemy": true
-  },
-  {
-    "comment": "Quarklicht",
-    "allyCode": "499979264",
-    "userIcon": "`499979264`|",
-    "enemy": true
-  },
-  {
-    "comment": "MTFBWYA",
-    "allyCode": "554964647",
-    "userIcon": "`554964647`|",
-    "enemy": false
-  },
-  {
-    "comment": "MakeMeSmile",
-    "allyCode": "569571353",
-    "userIcon": "`569571353`|",
-    "enemy": false
-  },
-  {
-    "comment": "The Defiler",
-    "allyCode": "627787418",
-    "userIcon": "`627787418`|",
-    "enemy": true
-  },
-  {
-    "comment": "Hyperion",
-    "allyCode": "628786559",
-    "userIcon": "`628786559`|",
-    "discordId": "514789974487465985",
-    "enemy": false,
-    "tagOnDrop": true
-  },
-  {
-    "comment": "Obi Harrison",
-    "allyCode": "716621627",
-    "userIcon": "`716621627`|",
-    "enemy": false
-  },
-  {
-    "comment": "MasterJedi357",
-    "allyCode": "734761273",
-    "userIcon": "`734761273`|",
-    "enemy": true
-  },
-  {
-    "comment": "DarthAlex I 4PDA I",
-    "allyCode": "741218229",
-    "userIcon": "`741218229`|",
-    "enemy": false
-  },
-  {
-    "comment": "Hawthorne",
-    "allyCode": "767142666",
-    "userIcon": "`767142666`|",
-    "enemy": false
-  },
-  {
-    "comment": "MINI DeMo",
-    "allyCode": "767669882",
-    "userIcon": "`767669882`|",
-    "discordId": "222853067786158080",
-    "enemy": false,
-    "tagOnDrop": true
-  },
-  {
-    "comment": "X'lor Bintaghr",
-    "allyCode": "818167629",
-    "userIcon": "`818167629`|",
-    "enemy": true
-  },
-  {
-    "comment": "khubilai",
-    "allyCode": "821429941",
-    "userIcon": "`821429941`|",
-    "enemy": false
-  },
-  {
-    "comment": "ROGER",
-    "allyCode": "857253836",
-    "userIcon": "`857253836`|",
-    "enemy": false
-  },
-  {
-    "comment": "Epic Mol",
-    "allyCode": "859583515",
-    "userIcon": "`859583515`|",
-    "enemy": true
-  },
-  {
-    "comment": "Jutor Peyan",
-    "allyCode": "885245356",
-    "userIcon": "`885245356`|",
-    "enemy": true
-  },
-  {
-    "comment": "BMA Ф",
-    "allyCode": "964753237",
-    "userIcon": "`964753237`|",
-    "enemy": true
-  },
-  {
-    "comment": "C3PO",
-    "allyCode": "971563297",
-    "userIcon": "`971563297`|",
-    "enemy": true
-  }
-]
+  ]
