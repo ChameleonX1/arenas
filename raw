@@ -134,4 +134,10 @@
     "userIcon": "`564996791`|",
     "enemy": false
   },
+ {
+    "comment": "Fel Naver",
+    "allyCode": "435287614",
+    "userIcon": "`435287614`|",
+    "enemy": true
+  },
   ]
