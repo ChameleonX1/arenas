@@ -1,143 +1,128 @@
 [
-  {
-    "comment": "ChameleonX",
-    "allyCode": "639981795",
-    "userIcon": "`639981795`|",
-    "discordId": "102215534375882752",
-    "enemy": false
-  },
-  {
-    "comment": "Voxy",
-    "allyCode": "581857899",
-    "userIcon": "`581857899`|",
-    "discordId": "426136695671488512",
-    "enemy": false
-  },
-  {
-    "comment": "Yoda1138",
-    "allyCode": "358471594",
-    "userIcon": "`358471594`|",
-    "enemy": true
-  },
-  {
-    "comment": "Force Ghost",
-    "allyCode": "578536777",
-    "userIcon": "`578536777`|",
-    "enemy": true
-  },
-  {
-    "comment": "Clerical Error",
-    "allyCode": "149567178",
-    "userIcon": "`149567178`|",
-    "enemy": false
-  },
-  {
-    "comment": "Gersch",
-    "allyCode": "539239795",
-    "userIcon": "`539239795`|",
-    "enemy": false
-  },
-  {
-    "comment": "oXo",
-    "allyCode": "515581987",
-    "userIcon": "`515581987`|",
-    "enemy": false
-  },
-  {
-    "comment": "Pavel",
-    "allyCode": "551588745",
-    "userIcon": "`551588745`|",
-    "enemy": true
-  },
-  {
-    "comment": "HK51",
-    "allyCode": "182835777",
-    "userIcon": "`182835777`|",
-    "enemy": false
-  },
-  {
-    "comment": "JB Unleashed",
-    "allyCode": "776362418",
-    "userIcon": "`776362418`|",
-    "enemy": true
-  },
-  {
-    "comment": "MarcelDavis",
-    "allyCode": "566975995",
-    "userIcon": "`566975995`|",
-    "enemy": false
-  },
-  {
-    "comment": "pointless",
-    "allyCode": "186213747",
-    "userIcon": "`186213747`|",
-    "enemy": true
-  },
-  {
-    "comment": "Base797",
-    "allyCode": "759253976",
-    "userIcon": "`759253976`|",
-    "enemy": true
-  },
-  {
-    "comment": "SomeGuy01",
-    "allyCode": "635412846",
-    "userIcon": "`635412846`|",
-    "enemy": true
-  },
-  {
-    "comment": "Bundy",
-    "allyCode": "832264253",
-    "userIcon": "`832264253`|",
-    "enemy": true
-  },
-  {
-    "comment": "krumpliszirom",
-    "allyCode": "384275151",
-    "userIcon": "`384275151`|",
-    "enemy": true
-  },
-  {
-    "comment": "Tømik",
-    "allyCode": "675556659",
-    "userIcon": "`675556659`|",
-    "enemy": true
-  },
-  {
-    "comment": "Golovinw",
-    "allyCode": "536156973",
-    "userIcon": "`536156973`|",
-    "enemy": true
-  },
-  {
-    "comment": "Enotiqell",
-    "allyCode": "276966195",
-    "userIcon": "`276966195`|",
-    "enemy": true
-  },
-  {
-    "comment": "Cebru",
-    "allyCode": "147439455",
-    "userIcon": "`147439455`|",
-    "enemy": true
-  },
-  {
-    "comment": "Etu Crutarus",
-    "allyCode": "955344594",
-    "userIcon": "`955344594`|",
-    "discordId": "395558081121222666",
-    "enemy": false,
-    },
-  {
-    "comment": "KingRay",
-    "allyCode": "564996791",
-    "userIcon": "`564996791`|",
-    "enemy": false
-  },
- {
-    "comment": "Fel Naver",
-    "allyCode": "435287614",
-    "userIcon": "`435287614`|",
-    "enemy": true
-  },
-  ]
+{ "name": "", "comment": "iBash", "allyCode": "972553835", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "<@395558081121222666>", "comment": "**NoMercy**", "allyCode": "633226926", "userIcon": ":flag_de:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "KHAN (Тобi Пэзда)", "allyCode": "361326893", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Tomik", "allyCode": "675556659", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "The Evil Doctor", "allyCode": "697799576", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Darkerzide", "allyCode": "655689642", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "trankn (トランキーノ)", "allyCode": "743652669", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "TarMhur", "allyCode": "674767353", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Turgon", "allyCode": "983313231", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "AdamantEnd", "allyCode": "329542385", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Rumborak", "allyCode": "178437878", "userIcon": ":flag_de:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "JinX", "allyCode": "893771821", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "krumpliszirom", "allyCode": "384275151", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Sv Simeon", "allyCode": "733165988", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Valentin", "allyCode": "312528632", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Ticoloco87", "allyCode": "358471594", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Yoda1138", "allyCode": "719388927", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "OnlyOne Kenovy", "allyCode": "262257951", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "shinrye", "allyCode": "926568794", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Morizo", "allyCode": "916579788", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "chucksax", "allyCode": "637875647", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "BobaFOAD", "allyCode": "126838667", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Lacika", "allyCode": "428452756", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Resmi Hardin47", "allyCode": "623836592", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "<@434099049302589440>", "comment": "Etu Crutarus", "allyCode": "955344594", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Zhil Axfow", "allyCode": "115357357", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Gis", "allyCode": "137536814", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "<@341942190785822742>", "comment": "Fritzi", "allyCode": "285998762", "userIcon": ":flag_de:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "<@303640722731696152>", "comment": "Okami", "allyCode": "512211324", "userIcon": ":flag_ua:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Juanijones", "allyCode": "132795776", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Sumu", "allyCode": "557974547", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "HansOlo", "allyCode": "822923858", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Nilo", "allyCode": "215456421", "userIcon": ":flag_no:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "ChaosSid1982 4PDA", "allyCode": "424861694", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "NJeezy", "allyCode": "497496293", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "TheHornetRat", "allyCode": "947814311", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Brioli", "allyCode": "272763552", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Pavel", "allyCode": "551588745", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Rainy", "allyCode": "276966195", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Boser", "allyCode": "776362418", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Clerical Error", "allyCode": "149567178", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Apollo", "allyCode": "565366613", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Den", "allyCode": "628422165", "userIcon": ":flag_ua:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "oxo", "allyCode": "515581987", "userIcon": ":flag_de:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Sort", "allyCode": "719559947", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Whiskeybeard", "allyCode": "671541966", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "<@102215534375882752>", "comment": "ChameleonX2", "allyCode": "639981795", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "<@426136695671488512>", "comment": "Voxynking", "allyCode": "581857899", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Solusek", "allyCode": "782171191", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Boop Boop Beep Beep", "allyCode": "232579182", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "MarcelDavis", "allyCode": "566975995", "userIcon": ":flag_de:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Toillion", "allyCode": "125848838", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Clerical Error", "allyCode": "149567178", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Ri0tAct", "allyCode": "939798914", "userIcon": ":flag_ca:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "DL Helios", "allyCode": "233719937", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "4PDA Aldamor", "allyCode": "842434351", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Robot", "allyCode": "755939282", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "gmac", "allyCode": "658223562", "userIcon": ":flag_br:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Stet7", "allyCode": "383121984", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "duBrik", "allyCode": "868955657", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "TolWaja", "allyCode": "543429698", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Toomz", "allyCode": "367732763", "userIcon": ":flag_fr:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Balrog", "allyCode": "487778464", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "LuckyJ", "allyCode": "859811159", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "HK51", "allyCode": "182835777", "userIcon": ":flag_ru:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Rudolph Matas", "allyCode": "247733691", "userIcon": ":flag_us:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "SuperSamat", "allyCode": "919619428", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "dubrik", "allyCode": "868955657", "userIcon": ":flag_at:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Gersch", "allyCode": "539239795", "userIcon": ":flag_de:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "DeelJade", "allyCode": "651372294", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Августин", "allyCode": "661548447", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Physhy", "allyCode": "488385179", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "KingRey", "allyCode": "564996791", "userIcon": ":flag_ph:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Shurrik", "allyCode": "863312579", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Golovinw", "allyCode": "536156973", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "lthandur", "allyCode": "769428278", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Mavrody", "allyCode": "289674347", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "FelNaver", "allyCode": "435287614", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "družas", "allyCode": "235644879", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Pointless", "allyCode": "186213747", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Cebru", "allyCode": "147439455", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "The Gambler", "allyCode": "982128673", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Yatvoyakiska", "allyCode": "443979915", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Dark Helmet", "allyCode": "422261182", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Congelations", "allyCode": "284479239", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "TdubbleC", "allyCode": "823745616", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Do it", "allyCode": "189359995", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Ace Manly", "allyCode": "329283564", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Colgate Toothwalker", "allyCode": "936872177", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Ukus Bobra", "allyCode": "356758217", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Jbo", "allyCode": "167557273", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Otto", "allyCode": "929334234", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Lyss", "allyCode": "714445132", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "ENS BallCrusher", "allyCode": "932561586", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Ukus Bobra", "allyCode": "356758217", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Tat Duno", "allyCode": "592372923", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Biggie smalls", "allyCode": "345924552", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Return of the J1zzEye", "allyCode": "578536777", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "SuperSamat", "allyCode": "919619428", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Tufoa", "allyCode": "177233736", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "JoeTeguing", "allyCode": "789493321", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "SeeyouVader", "allyCode": "246627542", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Valethor", "allyCode": "586275328", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Moosen", "allyCode": "274118712", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Zuijven", "allyCode": "325928331", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Kaziu Kiziu", "allyCode": "783814176", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Ariden", "allyCode": "988398726", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "TROSwasTrash", "allyCode": "661926245", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Tiroxx", "allyCode": "736951577", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Zimoka", "allyCode": "757524565", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "bakedgenius", "allyCode": "415271688", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "supertight", "allyCode": "538471282", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "flogchops", "allyCode": "222953518", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "meeraval", "allyCode": "229746932", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "someguy01", "allyCode": "635412846", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "umywalka", "allyCode": "558212952", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "morrisgladstone", "allyCode": "238949815", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Nonex", "allyCode": "966345258", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "dd", "allyCode": "473211352", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "alexjg", "allyCode": "619529529", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Mokka", "allyCode": "157756886", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Berserk", "allyCode": "737835925", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "Jade", "allyCode": "529116863", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "chodaboy", "allyCode": "671777269", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "godofwar", "allyCode": "944455459", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+,{ "name": "", "comment": "force ghost", "allyCode": "578536777", "userIcon": ":skull_crossbones:", "tagIdOnDrop": "", "tagIdOnClimb": "" }
+]
